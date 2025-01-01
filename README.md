@@ -1,3 +1,4 @@
+[![committers.top badge](https://user-badge.committers.top/ghana_private/USERNAME.svg)](https://user-badge.committers.top/ghana_private/dakerv)
 ## Hi there 👋
 ## I am Kendall, a software engineer
 
