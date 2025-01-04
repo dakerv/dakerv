@@ -1,6 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/ghana_private/USERNAME.svg)](https://user-badge.committers.top/ghana_private/dakerv)
 ## Hi there 👋
-## I am Kendall, a software engineer
+## I am Kendall, a software engineer.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dakerv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
