@@ -7,6 +7,7 @@
 
 ## 💫 About Me:
 My work focuses on machine learning, Python, and full-stack development, with an interest in applying AI to real-world problems! <br>
+<br>
 🔭 Currently working on deepfake image detection and AI-powered applications. <br>
 🌱 Developing my skills in machine learning, backend development, and software engineering. <br>
 👯 Open to collaborating on machine learning, AI, and software development projects. <br>
