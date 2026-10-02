@@ -1,16 +1,17 @@
 [![committers.top badge](https://user-badge.committers.top/ghana_private/USERNAME.svg)](https://user-badge.committers.top/ghana_private/dakerv)
-## Hi there, I'm Vanessa Daker 👋 My work focuses on machine learning, Python, and full-stack development, with an interest in applying AI to real-world problems!
-## Machine Learning | AI | Software Development
+## Machine Learning | AI | Software Development <br>
+## Hi there, I'm Vanessa Daker 👋 <br>
+## My work focuses on machine learning, Python, and full-stack development, with an interest in applying AI to real-world problems!
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dakerv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
-🔭 Currently working on deepfake image detection and AI-powered applications.
-🌱 Developing my skills in machine learning, backend development, and software engineering.
-👯 Open to collaborating on machine learning, AI, and software development projects.
-💬 Happy to discuss Python, TypeScript, React, and my work on image classification.
-🎯 Interested in opportunities involving AI/ML engineering and software development.
+🔭 Currently working on deepfake image detection and AI-powered applications. <br>
+🌱 Developing my skills in machine learning, backend development, and software engineering. <br>
+👯 Open to collaborating on machine learning, AI, and software development projects. <br>
+💬 Happy to discuss Python, TypeScript, React, and my work on image classification. <br>
+🎯 Interested in opportunities involving AI/ML engineering and software development. <br>
 
 
 ## 🌐 Socials:
